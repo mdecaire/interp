@@ -1,0 +1,13 @@
+
+//testA
+--Testing parameters, variables, case and if statements
+function my_function returns real;
+varB: integer is 24 / 6;
+begin
+ case varB is
+      when 6 =>
+         10;
+      others =>
+         60;
+      endcase;
+end;

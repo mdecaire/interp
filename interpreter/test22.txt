@@ -1,0 +1,12 @@
+-- Function Testin not operator
+
+function main returns integer;
+
+begin
+  if 8 < 3 then
+  6 rem 5; 
+ else 
+ 7;
+ endif;
+end;
+

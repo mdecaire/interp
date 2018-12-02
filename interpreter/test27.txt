@@ -1,0 +1,14 @@
+//testA
+--Testing parameters, variables, case and if statements
+function my_function returns real;
+begin
+   if (6>5) then
+	if(5>1) then
+	  8+9; 
+	   else 
+	    7;
+	endif;
+else
+5;
+endif;
+end; 

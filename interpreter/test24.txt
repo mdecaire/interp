@@ -1,0 +1,19 @@
+--Testing parameters, variables, case and if statements
+function my_function varA: boolean, varB: integer, varC: real returns real;
+varD: integer is 24 / varC;
+begin
+   case varB is
+      when 4 =>
+         10;
+      when 7 =>
+         if varA then
+            varD - varC;
+         else
+            varB / varD;
+         endif;
+      when 9 =>
+         30;
+      others =>
+         60;
+      endcase;
+end;

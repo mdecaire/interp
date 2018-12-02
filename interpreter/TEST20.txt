@@ -1,0 +1,8 @@
+-- Function Testin not operator
+
+function main a: integer, b: integer, c: real returns integer;
+
+begin
+ a/b+c;
+end;
+

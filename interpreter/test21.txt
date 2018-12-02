@@ -1,0 +1,13 @@
+// Function Testin not operator
+
+function main returns integer;
+
+begin
+ if 5>9 
+then 
+ 8;
+else
+9;
+endif;
+end;
+

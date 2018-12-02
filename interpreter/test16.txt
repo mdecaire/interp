@@ -1,0 +1,6 @@
+-- Expression with exponent
+
+function test2 returns integer;
+begin
+    2**3;
+end;

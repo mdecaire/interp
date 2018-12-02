@@ -1,0 +1,12 @@
+//testA
+--Testing parameters, variables, case and if statements
+function my_function varA: boolean, varB: real, varC: real returns real;
+
+begin
+if(5>1) then
+varB+varC; 
+else
+5;
+endif;
+
+end; 

@@ -1,0 +1,8 @@
+-- Function with a Variable testing >=
+
+function test3 returns integer;
+    b: integer is 7*6/3;
+    c: integer is 8/2;
+begin
+    b >=c;
+end;

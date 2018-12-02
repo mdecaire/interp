@@ -1,0 +1,10 @@
+-- Function Testin not operator
+
+function test3 returns integer;
+    c: integer is 8/2;
+    b: integer is 7*6/3;
+    
+begin
+   b <=c;
+end;
+

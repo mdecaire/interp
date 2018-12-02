@@ -1,0 +1,6 @@
+-- Testing real numbers
+
+function main returns real;
+begin
+    8 rem 6 ;
+end;

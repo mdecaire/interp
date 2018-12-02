@@ -1,0 +1,6 @@
+-- Testing remainder operator
+
+function main returns integer;
+begin
+    8 rem 6 ;
+end;
